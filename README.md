@@ -1,2 +1,1 @@
-# GreatFinds
-Zambian thrift marketplace and shoppable style feed — a PWA built with React, Vite, and Supabase.
+Great Finds is a Zambian thrift and fashion platform combining a live-bidding thrift marketplace with a shoppable style feed. Built as a Progressive Web App with React, Vite, and Supabase (Postgres, Auth, Realtime).
